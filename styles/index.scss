@@ -1,7 +1,7 @@
-@import 'variables.scss', 'common.scss', 'heder.scss', 'footer.scss',
-  'headline.scss', 'about.scss', 'customers.scss', 'features.scss', 'tips.scss',
-  'inbox.scss', 'comunication.scss', 'audience.scss', 'feedback.scss',
-  'hiring.scss', 'order.scss';
+@import 'variables.scss', 'breakpoints.scss', 'common.scss', 'heder.scss',
+  'footer.scss', 'headline.scss', 'about.scss', 'customers.scss',
+  'features.scss', 'tips.scss', 'inbox.scss', 'comunication.scss',
+  'audience.scss', 'feedback.scss', 'hiring.scss', 'order.scss';
 * {
   box-sizing: border-box;
 }
