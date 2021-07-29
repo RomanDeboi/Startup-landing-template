@@ -1,6 +1,6 @@
-#Startup landing template
----
-### [Site link](https://romandeboi.github.io/Gromcode/HTML_CSS/lesson24/index.html)
+## #Startup landing template
+
+### [Site link](https://romandeboi.github.io/Startup-landing-template/index.html)
 
 Layout supports mobile (up-to-1399) and desktop (from-1400) versions
 
@@ -13,4 +13,5 @@ Layout supports mobile (up-to-1399) and desktop (from-1400) versions
 - [BEM methodology](https://en.bem.info/methodology/)
 
 ### Author
+
 Roman Deboy
